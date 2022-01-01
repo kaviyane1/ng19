@@ -34,15 +34,13 @@ if (Config.WORKTYPE == 'private') {
 █-----╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝-----█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-🕊️ *Developer - Thisan Indusara  ( Thisan  )*
+🕊️ *Developer - Kaveesha Nethum*
 
 🕊️ *Language - NODE JS*
 
-🕊️ *Sponser Team - 2021©RavanaTech*
+🕊️ *Sponser Team - Asiatateam*
 
 
-
- ♥ *ʏᴛ ʟɪɴᴋ - https://youtu.be/8IjBMap1_mo*
 
 
     👊 *ᴅᴇᴘʟᴏʏ ɴᴏᴡ | ǫʀ ɴᴏᴡ* 👊
@@ -78,14 +76,12 @@ else if (Config.WORKTYPE == 'public') {
 █-----╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝-----█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-🕊️ *Developer - Thisan Indusara  ( Thisan  )*
+🕊️ *Developer - Kaveesha Nethum*
 
 🕊️ *Language - NODE JS*
 
-🕊️ *Sponser Team - 2021©RavanaTech*
+🕊️ *Sponser Team - Asiatateam*
 
-
- ♥ *ʏᴛ ʟɪɴᴋ - https://youtu.be/8IjBMap1_mo*
 
 
     👊 *ᴅᴇᴘʟᴏʏ ɴᴏᴡ | ǫʀ ɴᴏᴡ* 👊
@@ -119,14 +115,12 @@ else if (Config.WORKTYPE == 'public') {
 █-----╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝-----█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-🕊️ *Developer - Thisan Indusara  ( Thisan  )*
+🕊️ *Developer - Kaveesha Nethum*
 
 🕊️ *Language - NODE JS*
 
-🕊️ *Sponser Team - 2021©RavanaTech*
+🕊️ *Sponser Team - Asiatateam*
 
-
- ♥ *ʏᴛ ʟɪɴᴋ - https://youtu.be/8IjBMap1_mo*
 
 
     👊 *ᴅᴇᴘʟᴏʏ ɴᴏᴡ | ǫʀ ɴᴏᴡ* 👊
