@@ -13,22 +13,22 @@ async function whatsAsena() {
   conn.version = [2, 2126, 14]
 
   conn.on('connecting', async () => {
-    console.log(`${chalk.green.bold('SL-ASIATA')}${chalk.green.bold('Team')}
-${chalk.white.italic('SL-ASIATA String code recipient')}
-${chalk.blue.bold('ℹ️  Connecting SL-ASIATA... Please wait.')}`);
+    console.log(`${chalk.green.bold('SIMPLE-BOT')}${chalk.green.bold('Team')}
+${chalk.white.italic('SIMPLE-BOT String code recipient')}
+${chalk.blue.bold('ℹ️  Connecting SIMPLE-BOT... Please wait.')}`);
   });
 
   conn.on('open', async () => {
     console.log(
-      chalk.green.bold('SL-ASIATA QR Code: '),
-      'ASIATA;;;' +
+      chalk.green.bold('SIMPLE-BOT QR Code: '),
+      'SIMPLE;;;' +
       Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
         'base64'
       )
     );
     await conn.sendMessage(
       conn.user.jid,
-      'ASIATA;;;' +
+      'SIMPLE;;;' +
       Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
         'base64'
       ),
@@ -37,13 +37,13 @@ ${chalk.blue.bold('ℹ️  Connecting SL-ASIATA... Please wait.')}`);
     if (conn.user.jid.startsWith('91')) {
       await conn.sendMessage(
         conn.user.jid,
-        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ SL-ASIATA Scanned✅️*\n*▪️Thanks For Choosing SL-ASIATA 😈*',
+        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ SIMPLE-BOT Scanned✅️*\n*▪️Thanks For Choosing SIMPLE-BOT 😈*',
         MessageType.text
       );
     } else {
       await conn.sendMessage(
         conn.user.jid,
-        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ SL-ASIATA Successfully Scanned✅️*\n*▪️Thanks For Choosing SL-ASIATA😈*',
+        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ SIMPLE-BOT Successfully Scanned✅️*\n*▪️Thanks For Choosing SIMPLE-BOT😈*',
         MessageType.text
       );
     }
