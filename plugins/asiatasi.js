@@ -18,14 +18,12 @@ if (Config.LANG == 'SI') {
   
   Asiata.addcommand({ pattern: 'aasiata', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 
-        if (match[1] === '' ) return await message.sendMessage(ll);
-
-        var ttinullimage = await axios.get(`https://telegra.ph/file/5e6b637122b3353a7902b.jpg`, { responseType: 'arraybuffer' })
+        if (match[1] === '' ) return await message.sendMessage(ll)
         
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
-         💝 ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋💝
+         💝 ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋💝
 
 ═════════════════════════
 
